@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "image": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "rating": 8.8,
+    "genre": "Sci-Fi",
+    "year": 2010,
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"]
+  },
+  {
+    "id": 2,
+    "title": "Interstellar",
+    "image": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "rating": 8.6,
+    "genre": "Sci-Fi",
+    "year": 2014,
+    "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"]
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "rating": 9.0,
+    "genre": "Action",
+    "year": 2008,
+    "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"]
+  },
+  {
+    "id": 4,
+    "title": "Avatar",
+    "image": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+    "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+    "rating": 7.8,
+    "genre": "Sci-Fi",
+    "year": 2009,
+    "cast": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"]
+  },
+  {
+    "id": 5,
+    "title": "The Avengers",
+    "image": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+    "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "rating": 8.0,
+    "genre": "Action",
+    "year": 2012,
+    "cast": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson"]
+  },
+  {
+    "id": 6,
+    "title": "Titanic",
+    "image": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+    "rating": 7.8,
+    "genre": "Romance",
+    "year": 1997,
+    "cast": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"]
+  },
+   {
+    "id": 7,
+    "title": "Joker",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e1/Joker_%282019_film%29_poster.jpg",
+    "description": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+    "rating": 8.4,
+    "genre": "Crimi",
+    "year": 2019,
+    "cast": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"]
+  },
+  {
+    "id": 8,
+    "title": "Avengers: Endgame",
+    "image": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "rating": 8.4,
+    "genre": "Action",
+    "year": 2019,
+    "cast": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo"]
+  },
+  {
+    "id": 9,
+    "title": "Spider-Man: No Way Home",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg",
+    "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+    "rating": 8.0,
+    "genre": "Action",
+    "year": 2021,
+    "cast": ["Tom Holland", "Zendaya", "Benedict Cumberbatch"]
+  },
+   {
+    "id": 10,
+    "title": "The Lion King",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/The_Lion_King_poster.jpg",
+    "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+    "rating": 8.5,
+    "genre": "Animation",
+    "year": 1994,
+    "cast": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"]
+  },
+   {
+    "id": 11,
+    "title": "Coco",
+    "image": "https://image.tmdb.org/t/p/w500/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
+    "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+    "rating": 8.4,
+    "genre": "Animation",
+    "year": 2017,
+    "cast": ["Anthony Gonzalez", "Gael García Bernal", "Benjamin Bratt"]
+  },
+  {
+    "id": 12,
+    "title": "Gladiator",
+    "image": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "rating": 8.5,
+    "genre": "Action",
+    "year": 2000,
+    "cast": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"]
+  },
+  {
+    "id": 13,
+    "title": "Inception",
+    "image": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "rating": 8.8,
+    "genre": "Sci-Fi",
+    "year": 2010,
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"]
+  },
+  {
+    "id": 14,
+    "title": "Interstellar",
+    "image": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "rating": 8.6,
+    "genre": "Sci-Fi",
+    "year": 2014,
+    "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"]
+  },
+  {
+    "id": 15,
+    "title": "The Dark Knight",
+    "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "rating": 9.0,
+    "genre": "Action",
+    "year": 2008,
+    "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"]
+  },
+  {
+    "id": 16,
+    "title": "Avatar",
+    "image": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+    "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+    "rating": 7.8,
+    "genre": "Sci-Fi",
+    "year": 2009,
+    "cast": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"]
+  },
+  {
+    "id": 17,
+    "title": "The Avengers",
+    "image": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+    "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "rating": 8.0,
+    "genre": "Action",
+    "year": 2012,
+    "cast": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson"]
+  },
+  {
+    "id": 18,
+    "title": "Titanic",
+    "image": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+    "rating": 7.8,
+    "genre": "Romance",
+    "year": 1997,
+    "cast": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"]
+  },
+   {
+    "id": 19,
+    "title": "Joker",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e1/Joker_%282019_film%29_poster.jpg",
+    "description": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+    "rating": 8.4,
+    "genre": "Crimi",
+    "year": 2019,
+    "cast": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"]
+  },
+  {
+    "id": 20,
+    "title": "Avengers: Endgame",
+    "image": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "rating": 8.4,
+    "genre": "Action",
+    "year": 2019,
+    "cast": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo"]
+  },
+  {
+    "id": 21,
+    "title": "Spider-Man: No Way Home",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg",
+    "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+    "rating": 8.0,
+    "genre": "Action",
+    "year": 2021,
+    "cast": ["Tom Holland", "Zendaya", "Benedict Cumberbatch"]
+  },
+   {
+    "id": 22,
+    "title": "The Lion King",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/The_Lion_King_poster.jpg",
+    "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+    "rating": 8.5,
+    "genre": "Animation",
+    "year": 1994,
+    "cast": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"]
+  },
+   {
+    "id": 23,
+    "title": "Coco",
+    "image": "https://image.tmdb.org/t/p/w500/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
+    "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+    "rating": 8.4,
+    "genre": "Animation",
+    "year": 2017,
+    "cast": ["Anthony Gonzalez", "Gael García Bernal", "Benjamin Bratt"]
+  },
+  {
+    "id": 24,
+    "title": "Gladiator",
+    "image": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "rating": 8.5,
+    "genre": "Action",
+    "year": 2000,
+    "cast": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"]
+  },
+  {
+    "id": 25,
+    "title": "Inception",
+    "image": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "rating": 8.8,
+    "genre": "Sci-Fi",
+    "year": 2010,
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"]
+  },
+  {
+    "id": 26,
+    "title": "Interstellar",
+    "image": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "rating": 8.6,
+    "genre": "Sci-Fi",
+    "year": 2014,
+    "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"]
+  },
+  {
+    "id": 27,
+    "title": "The Dark Knight",
+    "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "rating": 9.0,
+    "genre": "Action",
+    "year": 2008,
+    "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"]
+  },
+  {
+    "id": 28,
+    "title": "Avatar",
+    "image": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+    "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+    "rating": 7.8,
+    "genre": "Sci-Fi",
+    "year": 2009,
+    "cast": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"]
+  },
+  {
+    "id": 29,
+    "title": "The Avengers",
+    "image": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+    "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "rating": 8.0,
+    "genre": "Action",
+    "year": 2012,
+    "cast": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson"]
+  },
+  {
+    "id": 30,
+    "title": "Titanic",
+    "image": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+    "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+    "rating": 7.8,
+    "genre": "Romance",
+    "year": 1997,
+    "cast": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"]
+  },
+   {
+    "id": 31,
+    "title": "Joker",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e1/Joker_%282019_film%29_poster.jpg",
+    "description": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+    "rating": 8.4,
+    "genre": "Crimi",
+    "year": 2019,
+    "cast": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"]
+  },
+  {
+    "id": 32,
+    "title": "Avengers: Endgame",
+    "image": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+    "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "rating": 8.4,
+    "genre": "Action",
+    "year": 2019,
+    "cast": ["Robert Downey Jr.", "Chris Evans", "Mark Ruffalo"]
+  },
+  {
+    "id": 33,
+    "title": "Spider-Man: No Way Home",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg",
+    "description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+    "rating": 8.0,
+    "genre": "Action",
+    "year": 2021,
+    "cast": ["Tom Holland", "Zendaya", "Benedict Cumberbatch"]
+  },
+   {
+    "id": 34,
+    "title": "The Lion King",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/The_Lion_King_poster.jpg",
+    "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+    "rating": 8.5,
+    "genre": "Animation",
+    "year": 1994,
+    "cast": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"]
+  },
+   {
+    "id": 35,
+    "title": "Coco",
+    "image": "https://image.tmdb.org/t/p/w500/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
+    "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+    "rating": 8.4,
+    "genre": "Animation",
+    "year": 2017,
+    "cast": ["Anthony Gonzalez", "Gael García Bernal", "Benjamin Bratt"]
+  }
+]

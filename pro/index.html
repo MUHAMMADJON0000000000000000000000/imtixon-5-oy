@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <title>Streaming</title>
+</head>
+
+<body class="bg-black text-white">
+
+  <!-- NAVBAR -->
+  <header class="flex justify-between items-center px-12 py-6 bg-black">
+    <img class="text-2xl font-bold text-pink-500"
+    src="./public/logo.svg">
+
+    <nav class="flex gap-8 text-gray-300">
+      <a href="#" class="hover:text-pink-500">Movies</a>
+      <a href="#" class="hover:text-pink-500">Series</a>
+      <a href="#" class="hover:text-pink-500">Channels</a>
+      <a href="#" class="hover:text-pink-500">Music</a>
+    </nav>
+
+    <div class="flex gap-6 items-center">
+      <button class="text-gray-300 hover:text-white">Search</button>
+      <button class="border px-4 py-2 rounded-full hover:bg-pink-500 transition">Sign in</button>
+    </div>
+  </header>
+
+  <!-- HERO SECTION -->
+  <section class="relative h-screen flex items-center px-12 overflow-hidden">
+    <!-- Background Image -->
+    <img src="./public/big img.png" alt="Hero Background" class="absolute inset-0 w-full h-full object-cover -z-20">
+    
+    <!-- Gradient Overlay for Readability -->
+    <div class="absolute inset-0 bg-gradient-to-r from-black/80 via-black/40 to-transparent -z-10"></div>
+
+    <div class="max-w-xl relative z-10">
+      <h2 class="text-5xl font-bold leading-tight">
+        Dive into a <span class="text-white">universe</span> of
+        un-ending content and channels
+      </h2>
+
+      <button class="mt-8 bg-pink-500 px-6 py-3 rounded-md font-semibold hover:bg-pink-600 transition">
+        Start FREE trial
+      </button>
+    </div>
+  </section>
+
+  <!-- MOVIES GRID -->
+  <section class="px-12 py-16">
+    <div id="movie-grid" class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6">
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="bg-zinc-900 px-12 py-16 mt-16">
+    <div class="grid md:grid-cols-4 gap-12 text-gray-400">
+
+      <div>
+        <img class="text-2xl font-bold text-pink-500"
+    src="./public/logo.svg">
+        <p class="text-sm">
+          Hot Africa, we offer original, exclusive and premium stories.
+        </p>
+      </div>
+
+      <div>
+        <h3 class="text-white mb-4 font-semibold">Sign in</h3>
+        <ul class="space-y-2 text-sm">
+          <li>Personal data</li>
+          <li>Choosing a Plan</li>
+          <li>Payment</li>
+        </ul>
+      </div>
+
+      <div>
+        <h3 class="text-white mb-4 font-semibold">Movies</h3>
+        <ul class="space-y-2 text-sm">
+          <li>Lock Up</li>
+          <li>Pavitra Rishta</li>
+          <li>Girgit</li>
+        </ul>
+      </div>
+
+      <div>
+        <h3 class="text-white mb-4 font-semibold">Series</h3>
+        <ul class="space-y-2 text-sm">
+          <li>Class Of 2020</li>
+          <li>Broken But Beautiful</li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="mt-12 text-center text-gray-500 text-sm">
+      © 2026 All rights reserved
+    </div>
+  </footer>
+
+  <script src="./src/main.js"></script>
+  <script src="./index.js"></script>
+</body>
+</html>
