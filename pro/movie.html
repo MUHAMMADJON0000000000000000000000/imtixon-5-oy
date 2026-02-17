@@ -8,27 +8,49 @@
 
 <body class="bg-black text-white">
 
-  <!-- NAVBAR (Copied from index.html) -->
-  <header class="flex justify-between items-center px-12 py-6 bg-black">
+  <!-- NAVBAR  -->
+  <header class="relative flex justify-between items-center px-12 py-6 bg-black z-50">
     <img class="text-2xl font-bold text-pink-500" src="./public/logo.svg" alt="Logo">
 
-    <nav class="flex gap-8 text-gray-300">
+    <!-- Desktop Nav -->
+    <nav class="hidden md:flex gap-8 text-gray-300">
       <a href="index.html" class="hover:text-pink-500">Movies</a>
       <a href="#" class="hover:text-pink-500">Series</a>
       <a href="#" class="hover:text-pink-500">Channels</a>
       <a href="#" class="hover:text-pink-500">Music</a>
     </nav>
 
-    <div class="flex gap-6 items-center">
+    <!-- Desktop Actions -->
+    <div class="hidden md:flex gap-6 items-center">
       <button class="text-gray-300 hover:text-white">Search</button>
       <button class="border px-4 py-2 rounded-full hover:bg-pink-500 transition">Sign in</button>
+    </div>
+
+    <!-- Burger Button -->
+    <button id="burger-menu-btn" class="md:hidden text-gray-300 hover:text-pink-500 focus:outline-none">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+      </svg>
+    </button>
+
+    <!-- Mobile Menu Overlay -->
+    <div id="mobile-menu" class="hidden absolute top-full left-0 w-full bg-zinc-900 border-t border-zinc-800 flex flex-col items-center py-6 space-y-6 shadow-2xl z-50">
+      <a href="index.html" class="text-white text-lg hover:text-pink-500">Movies</a>
+      <a href="#" class="text-white text-lg hover:text-pink-500">Series</a>
+      <a href="#" class="text-white text-lg hover:text-pink-500">Channels</a>
+      <a href="#" class="text-white text-lg hover:text-pink-500">Music</a>
+      
+      <div class="flex flex-col gap-4 w-3/4">
+        <button class="text-gray-300 border border-zinc-700 py-2 rounded-full hover:bg-zinc-800">Search</button>
+        <button class="bg-pink-500 text-white py-2 rounded-full hover:bg-pink-600 transition">Sign in</button>
+      </div>
     </div>
   </header>
 
   <!-- MOVIE CONTENT -->
   <main class="px-12 py-16 min-h-[60vh]">
     <div id="movie-content" class="w-full">
-      <!-- Content will be injected here by movie.js -->
+    <!-- -->
       <div class="animate-pulse flex space-x-4">
         <div class="flex-1 space-y-4 py-1">
           <div class="h-4 bg-gray-700 rounded w-3/4"></div>
@@ -41,7 +63,7 @@
     </div>
   </main>
 
-  <!-- FOOTER (Copied from index.html) -->
+  <!-- FOOTER  -->
   <footer class="bg-zinc-900 px-12 py-16 mt-16">
     <div class="grid md:grid-cols-4 gap-12 text-gray-400">
 

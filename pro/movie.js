@@ -64,4 +64,13 @@ document.addEventListener('DOMContentLoaded', async () => {
     console.error('Error fetching movie details:', error);
     movieContent.innerHTML = '<p class="text-red-500 text-xl">Error loading details.</p>';
   }
+
+  const burgerBtn = document.getElementById('burger-menu-btn');
+  const mobileMenu = document.getElementById('mobile-menu');
+
+  if (burgerBtn && mobileMenu) {
+    burgerBtn.addEventListener('click', () => {
+      mobileMenu.classList.toggle('hidden');
+    });
+  }
 });
